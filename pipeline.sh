@@ -1,7 +1,7 @@
 #!/bin/bash
 TOOLBIN="/home/username/bin"
 # Download the fasta files from GitHub
-#wget 
+wget https://github.com/zalsafwani/BMI8540_Project/blob/main/hcov-19_few.fasta
 
 # Run the files through MAFFT
 $TOOLBIN/mafft hcov-19_few.fasta > hcov-19_few.aligned.fa
