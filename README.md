@@ -34,7 +34,8 @@ The purpose of this project is to create a publicly accessible platform with phy
 - Date created: 05-Jul-2001
 - Source: https://www.python.org/dev/peps/pep-0008/
 
-## Running
+## Running 
+- To run the 
 - To run MAFFT use the absolute path to the mafft file in your bin folder with your your_fasta_file as an argumant
 - To run PhyML use the absolute path to the PhyML-3.1 file then use PhyML-3.1_linux64 if use Odin and -i your_phylip_file
 
