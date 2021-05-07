@@ -15,12 +15,9 @@ The purpose of this project is to create a publicly accessible platform with phy
 8. make clean
 9. make
 10. make install
-11. To run use the absolute path to the mafft file in your bin folder with your your_fasta_file as an argumant
 - Installing a local copy of PhyML for phylogenetic analysis: [PhyML wbsite](http://www.atgc-montpellier.fr/phyml/) 
 1. Home -> ATGC provides different kind of services : Software downlowad [PhyML download](http://www.atgc-montpellier.fr/phyml/binaries.php). Enter name and email then Download PhyML binaries. Or do (wget http://www.atgc-montpellier.fr/download/binaries/phyml/PhyML-3.1.zip) in your bin foldar
 2. unzip the PhyML-3.1.zip file
-3. To run use the absolute path to the PhyML-3.1 file then use PhyML-3.1_linux64 if use Odin and -i your_phylip_file
-
 
 ## Specification Guides for Code and Documentation
 - Python Documentation:
@@ -38,5 +35,8 @@ The purpose of this project is to create a publicly accessible platform with phy
 - Source: https://www.python.org/dev/peps/pep-0008/
 
 ## Running
+- To run MAFFT use the absolute path to the mafft file in your bin folder with your your_fasta_file as an argumant
+- To run PhyML use the absolute path to the PhyML-3.1 file then use PhyML-3.1_linux64 if use Odin and -i your_phylip_file
+
 
 ## File Descriptions
