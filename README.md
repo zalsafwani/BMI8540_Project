@@ -1,5 +1,5 @@
 # BMI8540_Project
-# Understand how nebraska SARS-CoV2 might evolve using phylogeny
+# Understand how Nebraska SARS-CoV2 might evolve using phylogeny
 The purpose of this project is to create a publicly accessible platform with phylogenetic tree for Nebraska SARS-CoV-2. Comparing sequences for known coronavirus strains could help us understand how the disease might evolve and identify mutations. Also, knowing genes that has high mutation rate could be useful in vaccine design. 
 
 ## Language and installation
